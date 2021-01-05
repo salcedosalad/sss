@@ -21,5 +21,8 @@ The key for any valid map is as follows:
 	B - indicates spawn location of bomb
 	T - indicates spawn location of T side players
 	C - indicates spawn loaction of C side players
+	
+	A blank space is simply a tile that can be walked on.
   
 The style of the game is similar to tactical shooters like CS:GO. The winner is decided on the best of 3 rounds.
+The @ symbol indicates the current location of the human player (if one exists).
