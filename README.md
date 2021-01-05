@@ -18,5 +18,8 @@ The key for any valid map is as follows:
 	1 - denotes the general location of bomb site 1
 	2 - denotes the general location of bomb site 2
 	3 - denotes the general location of bomb site 3
+	B - indicates spawn location of bomb
+	T - indicates spawn location of T side players
+	C - indicates spawn loaction of C side players
   
 The style of the game is similar to tactical shooters like CS:GO. The winner is decided on the best of 3 rounds.
