@@ -1,10 +1,9 @@
-//#include<iostream>    //not used
-#include <fstream>		//file input/output
-#include <ncurses.h>	//oooooo ncurses library
-#include <stdlib.h>		//to seed rand (srand)
-#include <time.h>		//the thing to seed rand with (time)
-#include <string>		//strings haha
-#include <vector>		//i love vectors <3
+#include <fstream>
+#include <ncurses.h>
+#include <stdlib.h>
+#include <time.h>
+#include <string>
+#include <vector>
 
 void initCurses();	//for starting ncurses window, defined below
 void endCurses();	//for ending ncurses window, defined below
