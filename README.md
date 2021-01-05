@@ -10,12 +10,13 @@ these paths will be stored in a file in the same directory, so any subsequent ru
 such calculations.
 
 The key for any valid map is as follows:
-  n - null, areas of the map that should not be accessable by players
-  x - areas of the map that players cannot walk through
-  o - obstacles that players cannot walk on, but can shoot through
-  P - denotes a tile where the bomb can be planted
-  1 - denotes the general location of bomb site 1
-  2 - denotes the general location of bomb site 2
-  3 - denotes the general location of bomb site 3
+ 
+	n - null, areas of the map that should not be accessable by players
+	x - areas of the map that players cannot walk through
+	o - obstacles that players cannot walk on, but can shoot through
+	P - denotes a tile where the bomb can be planted  
+	1 - denotes the general location of bomb site 1
+	2 - denotes the general location of bomb site 2
+	3 - denotes the general location of bomb site 3
   
 The style of the game is similar to tactical shooters like CS:GO. The winner is decided on the best of 3 rounds.
