@@ -1,0 +1,28 @@
+SIMPLE    50 x 25
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nx                                              xn
+nx                                            C xn
+nx    xxxxxxxxxxxx                              xn
+nx    xPPPPPPP   x                  x           xn
+nx    xPPPPPPP   x     xxx    o     x           xn
+nx    xPPPPPP1   x     xxx    o     x           xn
+nx    x       ooox            o     x       ooooxn
+nx    x          x            xx    x           xn
+nx    xxxxx      x            xx    x           xn
+nx                            xx    x           xn
+nx                            xx    x           xn
+nx       xxxxx            xxxxxx    x           xn
+nx       xxxxx    oooo    xxxxxx    x    PPPPPPPxn
+nx       xxxxx                      x    PPPPPP2xn
+nx                          oo      x           xn
+nx                          oo      o           xn
+nx    xxxxxxxxxx            oo      o           xn
+nx    xxxxxxxxxx                    o           xn
+nx          xxxx         xxxxxxxxxxxx       ooooxn
+nx T  B                                         xn
+nx                                              xn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+Any description or comments of the map can be written from this line down.
