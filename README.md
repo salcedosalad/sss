@@ -30,4 +30,4 @@ which can either prevent the map from loading or result in unpredictable/incorre
 The style of the game is similar to tactical shooters like CS:GO. The winner is decided on the best of 3 rounds.
 The @ symbol indicates the current location of the human player (if one exists).
 
-When executing, there is one command line argument, which is the filename of the map that will be used.
+When executing, there is one command line argument, which is the filename of the map that will be used. Ex: `./sss simplemap1.txt`
