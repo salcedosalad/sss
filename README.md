@@ -23,6 +23,9 @@ The key for any valid map is as follows:
 	C - indicates spawn loaction of C side players
 	
 	A blank space is simply a tile that can be walked on.
+	
+See simplemap1.txt for an example of a valid map. An invalid map may result in pathfinding algorithm calculation errors,
+which can either prevent the map from loading or result in unpredictable/incorrect AI behavior.
   
 The style of the game is similar to tactical shooters like CS:GO. The winner is decided on the best of 3 rounds.
 The @ symbol indicates the current location of the human player (if one exists).
