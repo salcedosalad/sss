@@ -20,7 +20,7 @@ The key for any valid map is as follows:
 	3 - denotes the general location of bomb site 3
 	B - indicates spawn location of bomb
 	T - indicates spawn location of T side players
-	C - indicates spawn loaction of C side players
+	C - indicates spawn location of C side players
 	
 	A blank space is simply a tile that can be walked on.
 	
